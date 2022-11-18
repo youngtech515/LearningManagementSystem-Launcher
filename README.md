@@ -1,4 +1,4 @@
-# Learning Management System Launcher - SEC 
+# Learning Management System Launcher - SEC College
 A chrome extension used to access my college LMS portal  for my online classes.
 
 # 🚀&nbsp;Installation 
